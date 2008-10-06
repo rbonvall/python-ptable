@@ -17,7 +17,7 @@ class Table:
         table.col_separator = <column separator string>
         table.repeat_headers_after = <number of rows after which the headers
                                       are printed again>
-        table.header_separator = <True if a line is to be drawed below the
+        table.header_separator = <True if a line is to be drawn below the
                                   header row>
     '''
     def __init__(self, iterable):

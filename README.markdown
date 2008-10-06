@@ -14,7 +14,7 @@ Options can be set by assigning some attributes:
     table.col_max_widths = <tuple of maximum column widths>
     table.col_separator = <column separator string>
     table.repeat_headers_after = <number of rows after which the headers are printed again>
-    table.header_separator = <True if a line is to be drawed below the header row>
+    table.header_separator = <True if a line is to be drawn below the header row>
 
 ## Example
 
